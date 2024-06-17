@@ -1,6 +1,6 @@
 # Multiscale-Attention
 ## Description
-These are codes and scripts for anonymous submission "Integrating Multi-scale Contextualized Information for Byte-based Neural Machine Translation"
+Codes and scripts for ACL2024 Findings paper "Integrating Multi-scale Contextualized Information for Byte-based Neural Machine Translation".
 
 ## Changes to fairseq files
  - add the file `multiscale_transformer.py` to fairseq/models
