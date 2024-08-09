@@ -1,4 +1,4 @@
-# Multiscale-Attention
+# Multiscale-Contextualization
 ## Description
 Codes and scripts for ACL2024 Findings paper "Integrating Multi-scale Contextualized Information for Byte-based Neural Machine Translation".
 
